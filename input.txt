@@ -1,0 +1,5 @@
+Go makes concurrency easy.
+Go uses goroutines and channels.
+Concurrency is a key feature of Go.
+Channels help communicate between goroutines.
+Go is simple and efficient.
